@@ -1,0 +1,2 @@
+# Load-Control-based-on-the-priority
+When there is no power cut, the loads in the connected to the grid/utility. And all the three critical loads will be working without any problem. But when there is a power cut, the mode is changed from Utility to Solar PV.  During the solar PV mode the loads are fed by the power from the solar PV. The power generated from the solar PV depends on the irradiance from the sun. Hence depending on the irradiance the loads that will be ON and OFF using the Smart Plug Logic.  The total simulation is done using MATLAB simulink. 
